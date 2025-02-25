@@ -9,7 +9,7 @@
 | 1    | 2468 | 안전 영역        | [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468) |  |  | 🐥 |
 | 1    | 2583 | 영역 구하기      | [https://www.acmicpc.net/problem/2583](https://www.acmicpc.net/problem/2583) |  |  | 🤬 |
 | 1    | 1325 | 효율적인 해킹    | [https://www.acmicpc.net/problem/1325](https://www.acmicpc.net/problem/1325) |  |  |  |
-| 1    | 1926 | 그림            | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |  |  |  |
+| 1    | 1926 | 그림            | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |  |  | 🐥 |
 | 1    | 1743 | 음식물 피하기    | [https://www.acmicpc.net/problem/1743](https://www.acmicpc.net/problem/1743) |  |  |  |
 | 1    | 3184 | 양              | [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184) |  |  |  |
 | 1    | 1303 | 전쟁 - 전투      | [https://www.acmicpc.net/problem/1303](https://www.acmicpc.net/problem/1303) |  |  |  |
