@@ -12,7 +12,7 @@
 | 1    | 1325 | 효율적인 해킹    | [https://www.acmicpc.net/problem/1325](https://www.acmicpc.net/problem/1325) |  |  |  |
 | 1    | 1926 | 그림            | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |  |  | 🐥 |
 | 1    | 1743 | 음식물 피하기    | [https://www.acmicpc.net/problem/1743](https://www.acmicpc.net/problem/1743) |  |  |  |
-| 1    | 3184 | 양              | [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184) |  |  |  |
+| 1    | 3184 | 양              | [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184) |  |  | 🐥 |
 | 1    | 1303 | 전쟁 - 전투      | [https://www.acmicpc.net/problem/1303](https://www.acmicpc.net/problem/1303) |  |  |  |
 | 1    | 14716 | 현수막         | [https://www.acmicpc.net/problem/14716](https://www.acmicpc.net/problem/14716) |  |  |  |
 | 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  | 🐥 |
