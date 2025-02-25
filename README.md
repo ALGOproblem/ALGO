@@ -14,7 +14,7 @@
 | 1    | 1743 | 음식물 피하기    | [https://www.acmicpc.net/problem/1743](https://www.acmicpc.net/problem/1743) |  |  |  |
 | 1    | 3184 | 양              | [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184) | 02/25 |  | 🐥 |
 | 1    | 1303 | 전쟁 - 전투      | [https://www.acmicpc.net/problem/1303](https://www.acmicpc.net/problem/1303) |  |  |  |
-| 1    | 14716 | 현수막         | [https://www.acmicpc.net/problem/14716](https://www.acmicpc.net/problem/14716) | 02/25 |  |  |
+| 1    | 14716 | 현수막         | [https://www.acmicpc.net/problem/14716](https://www.acmicpc.net/problem/14716) | 02/25 |  | 🐥 |
 | 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  | 🐥 |
 | 1    | 1939 | 나무 탈출      | [https://www.acmicpc.net/problem/1939](https://www.acmicpc.net/problem/1939) | 02/25 |  |  |
 | 1    | 1189 | 컴백홈         | [https://www.acmicpc.net/problem/1189](https://www.acmicpc.net/problem/1189) |  |  |  |
