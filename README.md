@@ -2,7 +2,7 @@
 
 ---
 
-| 레벨 | 번호  | 문제 이름           | 백준 링크 | 날짜 | 이름1 | 이름2 |
+| 레벨 | 번호  | 문제 이름           | 백준 링크 | 날짜 | mirim | eizi |
 |------|------|-----------------|------------|------|------|------|
 | 1    | 2667 | 단지번호붙이기    | [https://www.acmicpc.net/problem/2667](https://www.acmicpc.net/problem/2667) |  |  | 🐥 |
 | 1    | 2468 | 안전 영역        | [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468) |  |  | 🐥 |
