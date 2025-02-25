@@ -18,7 +18,7 @@
 | 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  | 💛 |
 | 1    | 1939 | 나무 탈출      | [https://www.acmicpc.net/problem/1939](https://www.acmicpc.net/problem/1939) | 02/25 |  | 🤬 |
 | 1    | 1189 | 컴백홈         | [https://www.acmicpc.net/problem/1189](https://www.acmicpc.net/problem/1189) |  |  |  |
-| 2    | 11724 | 연결 요소의 개수 | [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724) | 02/26 |  |  |
+| 2    | 11724 | 연결 요소의 개수 | [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724) | 02/26 |  | 💛 |
 | 2    | 4963  | 섬의 개수       | [https://www.acmicpc.net/problem/4963](https://www.acmicpc.net/problem/4963) |  |  |  |
 | 2    | 11725 | 트리의 부모 찾기 | [https://www.acmicpc.net/problem/11725](https://www.acmicpc.net/problem/11725) | 02/26 |  |  |
 | 2    | 2644  | 촌수계산       | [https://www.acmicpc.net/problem/2644](https://www.acmicpc.net/problem/2644) |  |  |  |
