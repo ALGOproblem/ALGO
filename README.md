@@ -4,16 +4,16 @@
 
 | 레벨 | 번호  | 문제 이름           | 백준 링크 | 날짜 | 이름1 | 이름2 |
 |------|------|-----------------|------------|------|------|------|
-| 1    | 2667 | 단지번호붙이기    | [https://www.acmicpc.net/problem/2667](https://www.acmicpc.net/problem/2667) |  |  |  |
-| 1    | 2468 | 안전 영역        | [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468) |  |  |  |
-| 1    | 2583 | 영역 구하기      | [https://www.acmicpc.net/problem/2583](https://www.acmicpc.net/problem/2583) |  |  |  |
+| 1    | 2667 | 단지번호붙이기    | [https://www.acmicpc.net/problem/2667](https://www.acmicpc.net/problem/2667) |  |  | 🐥 |
+| 1    | 2468 | 안전 영역        | [https://www.acmicpc.net/problem/2468](https://www.acmicpc.net/problem/2468) |  |  | 🐥 |
+| 1    | 2583 | 영역 구하기      | [https://www.acmicpc.net/problem/2583](https://www.acmicpc.net/problem/2583) |  |  | 🐥 |
 | 1    | 1325 | 효율적인 해킹    | [https://www.acmicpc.net/problem/1325](https://www.acmicpc.net/problem/1325) |  |  |  |
 | 1    | 1926 | 그림            | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |  |  |  |
 | 1    | 1743 | 음식물 피하기    | [https://www.acmicpc.net/problem/1743](https://www.acmicpc.net/problem/1743) |  |  |  |
 | 1    | 3184 | 양              | [https://www.acmicpc.net/problem/3184](https://www.acmicpc.net/problem/3184) |  |  |  |
 | 1    | 1303 | 전쟁 - 전투      | [https://www.acmicpc.net/problem/1303](https://www.acmicpc.net/problem/1303) |  |  |  |
 | 1    | 14716 | 현수막         | [https://www.acmicpc.net/problem/14716](https://www.acmicpc.net/problem/14716) |  |  |  |
-| 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  |  |
+| 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  | 🐥 |
 | 1    | 1939 | 나무 탈출      | [https://www.acmicpc.net/problem/1939](https://www.acmicpc.net/problem/1939) |  |  |  |
 | 1    | 1189 | 컴백홈         | [https://www.acmicpc.net/problem/1189](https://www.acmicpc.net/problem/1189) |  |  |  |
 | 2    | 11724 | 연결 요소의 개수 | [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724) |  |  |  |
