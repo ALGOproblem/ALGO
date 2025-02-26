@@ -1,5 +1,33 @@
 # ALGO
 
+필수 학습 개념들
+
+알고리즘의 시간 복잡도(Time Complexity) 및 공간 복잡도(Space Complexity) 개념 및 점근적 표기법(Asymptotic Notation)
+컴퓨터 기초 - Bit연산과 정수 및 소수 표현(Bit manipulation)
+프로그래밍 언어 기초 - 재귀함수(Recursion function)
+자료구조 - 스택(Stack)
+자료구조 - 큐(Queue)
+자료구조 - 트리(Tree)
+자료구조 - 그래프(Graph)
+알고리즘 - 그래프 탐색 알고리즘(DFS:Depth First Search)
+알고리즘 - 그래프 탐색 알고리즘(BFS:Breadth First Search)
+알고리즘 - 완전 탐색(Brute-force / Exhaustive Search)
+
+추가적으로 학습하면 좋은 개념들
+아래 나오는 항목들은 필수적인 항목들은 아니지만, 잘 알고 있으면 A형을 안정적으로 취득할 수 있도록 도와주는 개념
+
+알고리즘 - 백트래킹(Backtracking)
+구현 팁 - Run-Length 인코딩
+구현 팁 - 비트마스킹(Bitmasking)
+알고리즘 - 다익스트라 최단경로 알고리즘(Dijkstra shortest path algorithm)
+알고리즘 - 다이나믹 프로그래밍 기초(Dynamic programming)
+개념, 팁 - 상태 모델링(State Modeling)
+라이브러리 - C++ STL(Standard Template Library) 중 vector, queue, sort, priority_queue 등
+자료구조 - 우선순위 큐
+알고리즘 - 이진 탐색(Binary search)
+
+
+
 ---
 홀수만 풀기
 
@@ -66,4 +94,35 @@
 | 3 | 12100 | 2048 (Easy) | [https://www.acmicpc.net/problem/12100](https://www.acmicpc.net/problem/12100) | | |
 | 3 | 15684 | 사다리 조작 | [https://www.acmicpc.net/problem/15684](https://www.acmicpc.net/problem/15684) | | |
 | 3 | 19238 | 스타트 택시 | [https://www.acmicpc.net/problem/19238](https://www.acmicpc.net/problem/19238) | | |
+
+
+
+### 모의 SW 역량테스트 문제 목록
+
+| 난이도 | 번호  | 제목                   | 링크 |
+|--------|------|----------------------|------------------------------------------------|
+| 3 | 5648 | 원자 소멸 시뮬레이션 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
+| 3 | 5650 | 핀볼 게임 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
+| 3 | 17472 | 다리 만들기 2 | [https://www.acmicpc.net/problem/17472](https://www.acmicpc.net/problem/17472) |
+| 2 | 17471 | 게리맨더링 | [https://www.acmicpc.net/problem/17471](https://www.acmicpc.net/problem/17471) |
+| 2 | 17406 | 배열 돌리기 4 | [https://www.acmicpc.net/problem/17406](https://www.acmicpc.net/problem/17406) |
+| 2 | 17136 | 색종이 붙이기 | [https://www.acmicpc.net/problem/17136](https://www.acmicpc.net/problem/17136) |
+| 2 | 17135 | 캐슬 디펜스 | [https://www.acmicpc.net/problem/17135](https://www.acmicpc.net/problem/17135) |
+| 2 | 17070 | 파이프 옮기기 1 | [https://www.acmicpc.net/problem/17070](https://www.acmicpc.net/problem/17070) |
+| 2 | 16637 | 괄호 추가하기 | [https://www.acmicpc.net/problem/16637](https://www.acmicpc.net/problem/16637) |
+| 2 | 5653 | 줄기세포배양 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
+| 2 | 5656 | 벽돌 깨기 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
+| 2 | 5658 | 보물상자 비밀번호 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
+| 2 | 5644 | 무선 충전 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
+| 2 | 4014 | 활주로 건설 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
+| 2 | 4013 | 특이한 자석 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
+| 2 | 4012 | 요리사 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
+| 2 | 4008 | 숫자 만들기 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
+| 1 | 17281 | ⚾ | [https://www.acmicpc.net/problem/17281](https://www.acmicpc.net/problem/17281) |
+
+
+
+
+
+
 
