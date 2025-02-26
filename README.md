@@ -87,6 +87,47 @@
 
 ---
 
+### 다익스트라 연습 문제 목록
+
+| 난이도 | 번호  | 제목                           | 링크                                               |   |   |
+|--------|------|------------------------------|--------------------------------------------------|---|---|
+| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) |   |   |
+| 1      | 5972 | 택배 배송                     | [https://www.acmicpc.net/problem/5972](https://www.acmicpc.net/problem/5972) |   |   |
+| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) |   |   |
+| 1      | 1719 | 택배                          | [https://www.acmicpc.net/problem/1719](https://www.acmicpc.net/problem/1719) |   |   |
+| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) |   |   |
+| 1      | 4485 | 녹색 옷 입은 애가 젤다지?     | [https://www.acmicpc.net/problem/4485](https://www.acmicpc.net/problem/4485) |   |   |
+| 1      | 13424| 비밀 모임                     | [https://www.acmicpc.net/problem/13424](https://www.acmicpc.net/problem/13424) |   |   |
+| 1      | 14938| 서강그라운드                  | [https://www.acmicpc.net/problem/14938](https://www.acmicpc.net/problem/14938) |   |   |
+| 1      | 18223| 민준이와 마산 그리고 건우     | [https://www.acmicpc.net/problem/18223](https://www.acmicpc.net/problem/18223) |   |   |
+| 1      | 1238 | 파티                          | [https://www.acmicpc.net/problem/1238](https://www.acmicpc.net/problem/1238) |   |   |
+| 1      | 2211 | 네트워크 복구                 | [https://www.acmicpc.net/problem/2211](https://www.acmicpc.net/problem/2211) |   |   |
+| 2      | 14496| 그대, 그머가 되어             | [https://www.acmicpc.net/problem/14496](https://www.acmicpc.net/problem/14496) |   |   |
+| 2      | 1916 | 최소비용 구하기               | [https://www.acmicpc.net/problem/1916](https://www.acmicpc.net/problem/1916) |   |   |
+| 2      | 1261 | 알고스팟                      | [https://www.acmicpc.net/problem/1261](https://www.acmicpc.net/problem/1261) |   |   |
+| 2      | 1504 | 특정한 최단 경로              | [https://www.acmicpc.net/problem/1504](https://www.acmicpc.net/problem/1504) |   |   |
+| 2      | 10282| 해킹                          | [https://www.acmicpc.net/problem/10282](https://www.acmicpc.net/problem/10282) |   |   |
+| 2      | 11779| 최소비용 구하기 2             | [https://www.acmicpc.net/problem/11779](https://www.acmicpc.net/problem/11779) |   |   |
+| 2      | 1445 | 일요일 아침의 데이트          | [https://www.acmicpc.net/problem/1445](https://www.acmicpc.net/problem/1445) |   |   |
+| 2      | 10473| 인간 대포                     | [https://www.acmicpc.net/problem/10473](https://www.acmicpc.net/problem/10473) |   |   |
+| 2      | 14461| 소가 길을 건너간 이유 7       | [https://www.acmicpc.net/problem/14461](https://www.acmicpc.net/problem/14461) |   |   |
+| 3      | 18352| 특정 거리의 도시 찾기         | [https://www.acmicpc.net/problem/18352](https://www.acmicpc.net/problem/18352) |   |   |
+| 3      | 1753 | 최단경로                      | [https://www.acmicpc.net/problem/1753](https://www.acmicpc.net/problem/1753) |   |   |
+| 3      | 13549| 숨바꼭질 3                    | [https://www.acmicpc.net/problem/13549](https://www.acmicpc.net/problem/13549) |   |   |
+| 3      | 17396| 백도어                        | [https://www.acmicpc.net/problem/17396](https://www.acmicpc.net/problem/17396) |   |   |
+| 3      | 20168| 골목 대장 호석 - 기능성       | [https://www.acmicpc.net/problem/20168](https://www.acmicpc.net/problem/20168) |   |   |
+| 3      | 20007| 떡 돌리기                     | [https://www.acmicpc.net/problem/20007](https://www.acmicpc.net/problem/20007) |   |   |
+| 3      | 13911| 집 구하기                     | [https://www.acmicpc.net/problem/13911](https://www.acmicpc.net/problem/13911) |   |   |
+| 3      | 20666| 인물이와 정수                 | [https://www.acmicpc.net/problem/20666](https://www.acmicpc.net/problem/20666) |   |   |
+| 3      | 9370 | 미확인 도착지                 | [https://www.acmicpc.net/problem/9370](https://www.acmicpc.net/problem/9370) |   |   |
+| 3      | 14431| 소수마을                      | [https://www.acmicpc.net/problem/14431](https://www.acmicpc.net/problem/14431) |   |   |
+| 3      | 16118| 달빛 여우                     | [https://www.acmicpc.net/problem/16118](https://www.acmicpc.net/problem/16118) |   |   |
+| 3      | 17940| 지하철                        |  [https://www.acmicpc.net/problem/17940](https://www.acmicpc.net/problem/17940)|    |    |
+
+
+
+
+
 ### 백준 A형 대비 문제 
 
 | Level | 번호  | 제목                   | 링크 | mirim | eizi |
