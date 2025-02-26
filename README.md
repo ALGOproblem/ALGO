@@ -1,35 +1,86 @@
 # ALGO
 
-필수 학습 개념들
+## 스터디 진행 방식
 
-알고리즘의 시간 복잡도(Time Complexity) 및 공간 복잡도(Space Complexity) 개념 및 점근적 표기법(Asymptotic Notation)
-컴퓨터 기초 - Bit연산과 정수 및 소수 표현(Bit manipulation)
-프로그래밍 언어 기초 - 재귀함수(Recursion function)
-자료구조 - 스택(Stack)
-자료구조 - 큐(Queue)
-자료구조 - 트리(Tree)
-자료구조 - 그래프(Graph)
-알고리즘 - 그래프 탐색 알고리즘(DFS:Depth First Search)
-알고리즘 - 그래프 탐색 알고리즘(BFS:Breadth First Search)
-알고리즘 - 완전 탐색(Brute-force / Exhaustive Search)
+### 패키지 구조
+```
+ALGO
+├─ README.md
+├─ Common problem
+└─ Theme of problem
+   ├─ README.md
+   ├─ EIZI💛
+   │  ├─ baekjun${Question Number}.java
+   │  ├─ baekjun${Question Number}.java
+   │  └─ README.md
+   └─ MIRIM🐬
+      ├─ baekjun${Question Number}.java
+      ├─ baekjun${Question Number}.java
+      └─ README.md
+```
+### **README.md**
+#### 1. 레포지토리
+- `ALGO` 의 진행방식 소개
+  
+#### 2. 문제 테마별 패키지
+- 해당 테마의 포함된 문제 소개
+- 참여자들의 참여 현황 공유
+  
+| 이름 | 완료  | 고전 혹은 체크|
+|------|------|----------------|
+| 김미림 | 🐬 |  🔨  |
+| 이지민 | 💛 |  🤬  |
 
-추가적으로 학습하면 좋은 개념들
-아래 나오는 항목들은 필수적인 항목들은 아니지만, 잘 알고 있으면 A형을 안정적으로 취득할 수 있도록 도와주는 개념
 
-알고리즘 - 백트래킹(Backtracking)
-구현 팁 - Run-Length 인코딩
-구현 팁 - 비트마스킹(Bitmasking)
-알고리즘 - 다익스트라 최단경로 알고리즘(Dijkstra shortest path algorithm)
-알고리즘 - 다이나믹 프로그래밍 기초(Dynamic programming)
-개념, 팁 - 상태 모델링(State Modeling)
-라이브러리 - C++ STL(Standard Template Library) 중 vector, queue, sort, priority_queue 등
-자료구조 - 우선순위 큐
-알고리즘 - 이진 탐색(Binary search)
+#### 3. 참여자별 패키지
+- 테마 문제에 대한 메모
+- 개념, 고전했던 점, 주의할 점 등을 기록
+<br>
 
+### 공통 과제
+#### 1. 공통과제 선정
+#### 2. 문제 업로드
+#### 3. `pull request`를 통해 답안 제출
+#### 4. 코드 리뷰
+
+<br>
+
+### Git commit message
 
 
 ---
-### 백준 DFS 문제 모음
+### 필수 학습 개념들
+
+- 알고리즘의 시간 복잡도(Time Complexity) 및 공간 복잡도(Space Complexity) 개념 및 점근적 표기법(Asymptotic Notation)
+- 컴퓨터 기초 - Bit연산과 정수 및 소수 표현(Bit manipulation)
+- 프로그래밍 언어 기초 - 재귀함수(Recursion function)
+- 자료구조  스택(Stack)
+- 자료구조 - 큐(Queue)
+- 자료구조 - 트리(Tree)
+- 자료구조 - 그래프(Graph)
+- 알고리즘 - 그래프 탐색 알고리즘(DFS:Depth First Search)
+- 알고리즘 - 그래프 탐색 알고리즘(BFS:Breadth First Search)
+- 알고리즘 - 완전 탐색(Brute-force / Exhaustive Search)
+  
+<br>
+
+### 추가적으로 학습하면 좋은 개념들
+> 아래 나오는 항목들은 필수적인 항목들은 아니지만, 잘 알고 있으면 A형을 안정적으로 취득할 수 있도록 도와주는 개념
+<br>
+
+- 알고리즘 - 백트래킹(Backtracking)
+- 구현 팁 - Run-Length 인코딩
+- 구현 팁 - 비트마스킹(Bitmasking)
+- 알고리즘 - 다익스트라 최단경로 알고리즘(Dijkstra shortest path algorithm)
+- 알고리즘 - 다이나믹 프로그래밍 기초(Dynamic programming)
+- 개념, 팁 - 상태 모델링(State Modeling)
+- 라이브러리 - C++ STL(Standard Template Library) 중 vector, queue, sort, priority_queue 등
+- 자료구조 - 우선순위 큐
+- 알고리즘 - 이진 탐색(Binary search)
+<br>
+
+---
+### DFS 문제 | 홀수만 풀기
 
 
 | 레벨 | 번호  | 문제 이름           | 백준 링크 | 날짜 | mirim | eizi |
@@ -64,71 +115,8 @@
 
 
 
-### BFS 연습 문제 목록
 
-| 난이도 | 번호  | 제목                   | 링크 | mirim | eizi |
-|--------|------|----------------------|------------------------------------------------|---|---|
-| 1 | 2178 | 미로 탐색 | [https://www.acmicpc.net/problem/2178](https://www.acmicpc.net/problem/2178) | | |
-| 1 | 1012 | 유기농 배추 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) | | |
-| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | | |
-| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) | | |
-| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) | | |
-| 2 | 7576 | 토마토 | [https://www.acmicpc.net/problem/7576](https://www.acmicpc.net/problem/7576) | | |
-| 2 | 7569 | 토마토(3차원) | [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569) | | |
-| 2 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
-| 2 | 4179 | 불! | [https://www.acmicpc.net/problem/4179](https://www.acmicpc.net/problem/4179) | | |
-| 2 | 1697 | 숨바꼭질 | [https://www.acmicpc.net/problem/1697](https://www.acmicpc.net/problem/1697) | | |
-| 3 | 12851 | 숨바꼭질 2 | [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851) | | |
-| 3 | 13549 | 숨바꼭질 3 | [https://www.acmicpc.net/problem/13549](https://www.acmicpc.net/problem/13549) | | |
-| 3 | 13913 | 숨바꼭질 4 | [https://www.acmicpc.net/problem/13913](https://www.acmicpc.net/problem/13913) | | |
-| 3 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
-| 3 | 2146 | 다리 만들기 | [https://www.acmicpc.net/problem/2146](https://www.acmicpc.net/problem/2146) | | |
-
-
----
-
-### 다익스트라 연습 문제 목록
-
-| 난이도 | 번호  | 제목                           | 링크                                               |   |   |
-|--------|------|------------------------------|--------------------------------------------------|---|---|
-| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) |   |   |
-| 1      | 5972 | 택배 배송                     | [https://www.acmicpc.net/problem/5972](https://www.acmicpc.net/problem/5972) |   |   |
-| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) |   |   |
-| 1      | 1719 | 택배                          | [https://www.acmicpc.net/problem/1719](https://www.acmicpc.net/problem/1719) |   |   |
-| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) |   |   |
-| 1      | 4485 | 녹색 옷 입은 애가 젤다지?     | [https://www.acmicpc.net/problem/4485](https://www.acmicpc.net/problem/4485) |   |   |
-| 1      | 13424| 비밀 모임                     | [https://www.acmicpc.net/problem/13424](https://www.acmicpc.net/problem/13424) |   |   |
-| 1      | 14938| 서강그라운드                  | [https://www.acmicpc.net/problem/14938](https://www.acmicpc.net/problem/14938) |   |   |
-| 1      | 18223| 민준이와 마산 그리고 건우     | [https://www.acmicpc.net/problem/18223](https://www.acmicpc.net/problem/18223) |   |   |
-| 1      | 1238 | 파티                          | [https://www.acmicpc.net/problem/1238](https://www.acmicpc.net/problem/1238) |   |   |
-| 1      | 2211 | 네트워크 복구                 | [https://www.acmicpc.net/problem/2211](https://www.acmicpc.net/problem/2211) |   |   |
-| 2      | 14496| 그대, 그머가 되어             | [https://www.acmicpc.net/problem/14496](https://www.acmicpc.net/problem/14496) |   |   |
-| 2      | 1916 | 최소비용 구하기               | [https://www.acmicpc.net/problem/1916](https://www.acmicpc.net/problem/1916) |   |   |
-| 2      | 1261 | 알고스팟                      | [https://www.acmicpc.net/problem/1261](https://www.acmicpc.net/problem/1261) |   |   |
-| 2      | 1504 | 특정한 최단 경로              | [https://www.acmicpc.net/problem/1504](https://www.acmicpc.net/problem/1504) |   |   |
-| 2      | 10282| 해킹                          | [https://www.acmicpc.net/problem/10282](https://www.acmicpc.net/problem/10282) |   |   |
-| 2      | 11779| 최소비용 구하기 2             | [https://www.acmicpc.net/problem/11779](https://www.acmicpc.net/problem/11779) |   |   |
-| 2      | 1445 | 일요일 아침의 데이트          | [https://www.acmicpc.net/problem/1445](https://www.acmicpc.net/problem/1445) |   |   |
-| 2      | 10473| 인간 대포                     | [https://www.acmicpc.net/problem/10473](https://www.acmicpc.net/problem/10473) |   |   |
-| 2      | 14461| 소가 길을 건너간 이유 7       | [https://www.acmicpc.net/problem/14461](https://www.acmicpc.net/problem/14461) |   |   |
-| 3      | 18352| 특정 거리의 도시 찾기         | [https://www.acmicpc.net/problem/18352](https://www.acmicpc.net/problem/18352) |   |   |
-| 3      | 1753 | 최단경로                      | [https://www.acmicpc.net/problem/1753](https://www.acmicpc.net/problem/1753) |   |   |
-| 3      | 13549| 숨바꼭질 3                    | [https://www.acmicpc.net/problem/13549](https://www.acmicpc.net/problem/13549) |   |   |
-| 3      | 17396| 백도어                        | [https://www.acmicpc.net/problem/17396](https://www.acmicpc.net/problem/17396) |   |   |
-| 3      | 20168| 골목 대장 호석 - 기능성       | [https://www.acmicpc.net/problem/20168](https://www.acmicpc.net/problem/20168) |   |   |
-| 3      | 20007| 떡 돌리기                     | [https://www.acmicpc.net/problem/20007](https://www.acmicpc.net/problem/20007) |   |   |
-| 3      | 13911| 집 구하기                     | [https://www.acmicpc.net/problem/13911](https://www.acmicpc.net/problem/13911) |   |   |
-| 3      | 20666| 인물이와 정수                 | [https://www.acmicpc.net/problem/20666](https://www.acmicpc.net/problem/20666) |   |   |
-| 3      | 9370 | 미확인 도착지                 | [https://www.acmicpc.net/problem/9370](https://www.acmicpc.net/problem/9370) |   |   |
-| 3      | 14431| 소수마을                      | [https://www.acmicpc.net/problem/14431](https://www.acmicpc.net/problem/14431) |   |   |
-| 3      | 16118| 달빛 여우                     | [https://www.acmicpc.net/problem/16118](https://www.acmicpc.net/problem/16118) |   |   |
-| 3      | 17940| 지하철                        |  [https://www.acmicpc.net/problem/17940](https://www.acmicpc.net/problem/17940)|    |    |
-
-
-
-
-
-### 백준 A형 대비 문제 
+### 백준 A형 대비 문제 (난이도 오름차순)
 
 | Level | 번호  | 제목                   | 링크 | mirim | eizi |
 |--------|------|----------------------|------------------------------------------------|---|---|
@@ -182,10 +170,3 @@
 | 2 | 4012 | 요리사 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo) |
 | 2 | 4008 | 숫자 만들기 | [https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGsMy6h3kDFAUo) |
 | 1 | 17281 | ⚾ | [https://www.acmicpc.net/problem/17281](https://www.acmicpc.net/problem/17281) |
-
-
-
-
-
-
-
