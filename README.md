@@ -66,7 +66,7 @@
 
 ### BFS 연습 문제 목록
 
-| 난이도 | 번호  | 제목                   | 링크 |  |  |
+| 난이도 | 번호  | 제목                   | 링크 | mirim | eizi |
 |--------|------|----------------------|------------------------------------------------|---|---|
 | 1 | 2178 | 미로 탐색 | [https://www.acmicpc.net/problem/2178](https://www.acmicpc.net/problem/2178) | | |
 | 1 | 1012 | 유기농 배추 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) | | |
