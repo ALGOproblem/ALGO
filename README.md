@@ -29,7 +29,7 @@
 
 
 ---
-홀수만 풀기
+### 백준 DFS 문제 모음
 
 
 | 레벨 | 번호  | 문제 이름           | 백준 링크 | 날짜 | mirim | eizi |
@@ -64,8 +64,30 @@
 
 
 
+### BFS 연습 문제 목록
 
-### 백준 A형 대비 문제 (난이도 오름차순)
+| 난이도 | 번호  | 제목                   | 링크 |  |  |
+|--------|------|----------------------|------------------------------------------------|---|---|
+| 1 | 2178 | 미로 탐색 | [https://www.acmicpc.net/problem/2178](https://www.acmicpc.net/problem/2178) | | |
+| 1 | 1012 | 유기농 배추 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) | | |
+| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | | |
+| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) | | |
+| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) | | |
+| 2 | 7576 | 토마토 | [https://www.acmicpc.net/problem/7576](https://www.acmicpc.net/problem/7576) | | |
+| 2 | 7569 | 토마토(3차원) | [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569) | | |
+| 2 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
+| 2 | 4179 | 불! | [https://www.acmicpc.net/problem/4179](https://www.acmicpc.net/problem/4179) | | |
+| 2 | 1697 | 숨바꼭질 | [https://www.acmicpc.net/problem/1697](https://www.acmicpc.net/problem/1697) | | |
+| 3 | 12851 | 숨바꼭질 2 | [https://www.acmicpc.net/problem/12851](https://www.acmicpc.net/problem/12851) | | |
+| 3 | 13549 | 숨바꼭질 3 | [https://www.acmicpc.net/problem/13549](https://www.acmicpc.net/problem/13549) | | |
+| 3 | 13913 | 숨바꼭질 4 | [https://www.acmicpc.net/problem/13913](https://www.acmicpc.net/problem/13913) | | |
+| 3 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
+| 3 | 2146 | 다리 만들기 | [https://www.acmicpc.net/problem/2146](https://www.acmicpc.net/problem/2146) | | |
+
+
+---
+
+### 백준 A형 대비 문제 
 
 | Level | 번호  | 제목                   | 링크 | mirim | eizi |
 |--------|------|----------------------|------------------------------------------------|---|---|
