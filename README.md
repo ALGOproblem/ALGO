@@ -35,3 +35,35 @@
 ---
 
 
+
+
+### 백준 A형 대비 문제 (난이도 오름차순)
+
+| Level | 번호  | 제목                   | 링크 | mirim | eizi |
+|--------|------|----------------------|------------------------------------------------|---|---|
+| 1 | 20057 | 마법사 상어와 토네이도 | [https://www.acmicpc.net/problem/20057](https://www.acmicpc.net/problem/20057) | | |
+| 1 | 19236 | 청소년 상어 | [https://www.acmicpc.net/problem/19236](https://www.acmicpc.net/problem/19236) | | |
+| 1 | 23288 | 주사위 굴리기 2 | [https://www.acmicpc.net/problem/23288](https://www.acmicpc.net/problem/23288) | | |
+| 1 | 20055 | 컨베이어 벨트 위의 로봇 | [https://www.acmicpc.net/problem/20055](https://www.acmicpc.net/problem/20055) | | |
+| 1 | 14890 | 경사로 | [https://www.acmicpc.net/problem/14890](https://www.acmicpc.net/problem/14890) | | |
+| 1 | 15685 | 드래곤 커브 | [https://www.acmicpc.net/problem/15685](https://www.acmicpc.net/problem/15685) | | |
+| 1 | 17144 | 미세먼지 안녕! | [https://www.acmicpc.net/problem/17144](https://www.acmicpc.net/problem/17144) | | |
+| 1 | 14891 | 톱니바퀴 | [https://www.acmicpc.net/problem/14891](https://www.acmicpc.net/problem/14891) | | |
+| 1 | 21610 | 마법사 상어와 비바라기 | [https://www.acmicpc.net/problem/21610](https://www.acmicpc.net/problem/21610) | | |
+| 1 | 17779 | 게리맨더링 2 | [https://www.acmicpc.net/problem/17779](https://www.acmicpc.net/problem/17779) | | |
+| 2 | 23290 | 마법사 상어와 복제 | [https://www.acmicpc.net/problem/23290](https://www.acmicpc.net/problem/23290) | | |
+| 2 | 17142 | 연구소 3 | [https://www.acmicpc.net/problem/17142](https://www.acmicpc.net/problem/17142) | | |
+| 2 | 16235 | 나무 재테크 | [https://www.acmicpc.net/problem/16235](https://www.acmicpc.net/problem/16235) | | |
+| 2 | 21609 | 상어 중학교 | [https://www.acmicpc.net/problem/21609](https://www.acmicpc.net/problem/21609) | | |
+| 2 | 14500 | 테트로미노 | [https://www.acmicpc.net/problem/14500](https://www.acmicpc.net/problem/14500) | | |
+| 2 | 14888 | 연산자 끼워넣기 | [https://www.acmicpc.net/problem/14888](https://www.acmicpc.net/problem/14888) | | |
+| 2 | 15686 | 치킨 배달 | [https://www.acmicpc.net/problem/15686](https://www.acmicpc.net/problem/15686) | | |
+| 2 | 14503 | 로봇 청소기 | [https://www.acmicpc.net/problem/14503](https://www.acmicpc.net/problem/14503) | | |
+| 2 | 20058 | 마법사 상어와 파이어스톰 | [https://www.acmicpc.net/problem/20058](https://www.acmicpc.net/problem/20058) | | |
+| 2 | 17837 | 새로운 게임 2 | [https://www.acmicpc.net/problem/17837](https://www.acmicpc.net/problem/17837) | | |
+| 3 | 21611 | 마법사 상어와 블리자드 | [https://www.acmicpc.net/problem/21611](https://www.acmicpc.net/problem/21611) | | |
+| 3 | 13460 | 구슬 탈출 2 | [https://www.acmicpc.net/problem/13460](https://www.acmicpc.net/problem/13460) | | |
+| 3 | 12100 | 2048 (Easy) | [https://www.acmicpc.net/problem/12100](https://www.acmicpc.net/problem/12100) | | |
+| 3 | 15684 | 사다리 조작 | [https://www.acmicpc.net/problem/15684](https://www.acmicpc.net/problem/15684) | | |
+| 3 | 19238 | 스타트 택시 | [https://www.acmicpc.net/problem/19238](https://www.acmicpc.net/problem/19238) | | |
+
