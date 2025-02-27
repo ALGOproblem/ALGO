@@ -105,7 +105,7 @@ ALGO
 | 2    | 24479 | 알고리즘 수업 - 깊이 우선 탐색 1 | [https://www.acmicpc.net/problem/24479](https://www.acmicpc.net/problem/24479) |  |  |  |
 | 2    | 24480 | 알고리즘 수업 - 깊이 우선 탐색 2 | [https://www.acmicpc.net/problem/24480](https://www.acmicpc.net/problem/24480) | 02/26 |  | 💛 |
 | 2    | 13565 | 침투           | [https://www.acmicpc.net/problem/13565](https://www.acmicpc.net/problem/13565) |  |  |  |
-| 3    | 1260  | DFS와 BFS      | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | 02/26 | 🔨 |  |
+| 3    | 1260  | DFS와 BFS      | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | 02/26 | 🔨 | 💛 |
 | 3    | 2606  | 바이러스       | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) |  |  🐬 |  |
 | 3    | 1012  | 유기농 배추     | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) |02/27  |  |  |
 | 4    | 1388  | 바닥 장식      | [https://www.acmicpc.net/problem/1388](https://www.acmicpc.net/problem/1388) |  |  |  |
