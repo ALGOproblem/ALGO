@@ -101,7 +101,7 @@ ALGO
 | 2    | 4963  | 섬의 개수       | [https://www.acmicpc.net/problem/4963](https://www.acmicpc.net/problem/4963) |  |  |  |
 | 2    | 11725 | 트리의 부모 찾기 | [https://www.acmicpc.net/problem/11725](https://www.acmicpc.net/problem/11725) | 02/26 |  | 🤬 |
 | 2    | 2644  | 촌수계산       | [https://www.acmicpc.net/problem/2644](https://www.acmicpc.net/problem/2644) |  |  |  |
-| 2    | 2210  | 숫자판 점프     | [https://www.acmicpc.net/problem/2210](https://www.acmicpc.net/problem/2210) | 02/26 |  |  |
+| 2    | 2210  | 숫자판 점프     | [https://www.acmicpc.net/problem/2210](https://www.acmicpc.net/problem/2210) | 02/26 |  | 🤬 |
 | 2    | 24479 | 알고리즘 수업 - 깊이 우선 탐색 1 | [https://www.acmicpc.net/problem/24479](https://www.acmicpc.net/problem/24479) |  |  |  |
 | 2    | 24480 | 알고리즘 수업 - 깊이 우선 탐색 2 | [https://www.acmicpc.net/problem/24480](https://www.acmicpc.net/problem/24480) | 02/26 |  |  |
 | 2    | 13565 | 침투           | [https://www.acmicpc.net/problem/13565](https://www.acmicpc.net/problem/13565) |  |  |  |
