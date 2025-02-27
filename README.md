@@ -103,7 +103,7 @@ ALGO
 | 2    | 2644  | 촌수계산       | [https://www.acmicpc.net/problem/2644](https://www.acmicpc.net/problem/2644) |  |  |  |
 | 2    | 2210  | 숫자판 점프     | [https://www.acmicpc.net/problem/2210](https://www.acmicpc.net/problem/2210) | 02/26 |  | 🤬 |
 | 2    | 24479 | 알고리즘 수업 - 깊이 우선 탐색 1 | [https://www.acmicpc.net/problem/24479](https://www.acmicpc.net/problem/24479) |  |  |  |
-| 2    | 24480 | 알고리즘 수업 - 깊이 우선 탐색 2 | [https://www.acmicpc.net/problem/24480](https://www.acmicpc.net/problem/24480) | 02/26 |  |  |
+| 2    | 24480 | 알고리즘 수업 - 깊이 우선 탐색 2 | [https://www.acmicpc.net/problem/24480](https://www.acmicpc.net/problem/24480) | 02/26 |  | 💛 |
 | 2    | 13565 | 침투           | [https://www.acmicpc.net/problem/13565](https://www.acmicpc.net/problem/13565) |  |  |  |
 | 3    | 1260  | DFS와 BFS      | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | 02/26 | 🔨 |  |
 | 3    | 2606  | 바이러스       | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) |  |  🐬 |  |
