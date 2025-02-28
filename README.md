@@ -95,7 +95,7 @@ ALGO
 | 1    | 1303 | 전쟁 - 전투      | [https://www.acmicpc.net/problem/1303](https://www.acmicpc.net/problem/1303) |  |  |  |
 | 1    | 14716 | 현수막         | [https://www.acmicpc.net/problem/14716](https://www.acmicpc.net/problem/14716) | 02/25 |  | 💛 |
 | 1    | 3187 | 양치기 꿍       | [https://www.acmicpc.net/problem/3187](https://www.acmicpc.net/problem/3187) |  |  | 💛 |
-| 1    | 1939 | 나무 탈출      | [https://www.acmicpc.net/problem/1939](https://www.acmicpc.net/problem/1939) | 02/25 |  | 🤬 |
+| 1    | 1939 | 중량제한      | [https://www.acmicpc.net/problem/1939](https://www.acmicpc.net/problem/1939) | 02/25 | 🔨 | 🤬 |
 | 1    | 1189 | 컴백홈         | [https://www.acmicpc.net/problem/1189](https://www.acmicpc.net/problem/1189) |  |  |  |
 | 2    | 11724 | 연결 요소의 개수 | [https://www.acmicpc.net/problem/11724](https://www.acmicpc.net/problem/11724) | 02/26 |  | 💛 |
 | 2    | 4963  | 섬의 개수       | [https://www.acmicpc.net/problem/4963](https://www.acmicpc.net/problem/4963) |  |  |  |
