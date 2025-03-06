@@ -3,10 +3,10 @@ import java.util.*;
 
 public class Main {
     static int[][] arr;
-    static set<String> nums = new HashSet<>(); // 중복 저장 방지
+    static Set<String> nums = new HashSet<>(); // 중복 저장 방지
     static int[] dirx = {-1, 1, 0, 0};
     static int[] diry = {0, 0, -1, 1};
-    public static void main(String[] args) throw IOException {
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         arr = new int[5][5];
         for (int i = 0; i<5; i++){
@@ -21,7 +21,7 @@ public class Main {
                 dfs(i, j, String.valueOf(arr[i][j])) // 해당 좌표 값 String 변환
             }
         }//모든좌표에서 DFS 실행
-        System.out.prnitln(nums.size());
+        System.out.println(nums.size());
     }
     static void dfs(int x, int y, String num){
         if (num.length() == 5){
