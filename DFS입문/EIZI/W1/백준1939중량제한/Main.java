@@ -1,4 +1,4 @@
-package 문제1939중량제한;
+package 백준1939중량제한;
 
 import java.io.*;
 import java.util.*;
