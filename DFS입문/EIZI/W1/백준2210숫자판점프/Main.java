@@ -18,7 +18,7 @@ public class Main {
         }// 숫자판 입력
         for (int i = 0; i<5; i++){
             for (int j = 0; j<5; j++){
-                dfs(i, j, String.valueOf(arr[i][j])) // 해당 좌표 값 String 변환
+                dfs(i, j, String.valueOf(arr[i][j])); // 해당 좌표 값 String 변환
             }
         }//모든좌표에서 DFS 실행
         System.out.println(nums.size());

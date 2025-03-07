@@ -1,4 +1,4 @@
-package 문제1939중량제한;
+package 백준1939중량제한;
 
 import java.io.*;
 import java.util.*;
@@ -8,7 +8,7 @@ public class Main {
     static List<int[]>[] graph;
 
     public static void main(String[] args) throws IOException {
-        System.setIn(new FileInputStream("res/문제1939중량제한.txt"));
+        //System.setIn(new FileInputStream("res/문제1939중량제한.txt"));
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
 
