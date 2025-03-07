@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class 문제14510나무높이 {
     static int[] arr;
     static Integer[] arr_height;
 
