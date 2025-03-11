@@ -2,6 +2,14 @@
 
 ## 스터디 진행 방식
 
+### 공통 문제
+week 1 : DFS 문제 | 홀수만 풀기 <br>
+week 2 : SWEA 나무 물주기 & 다익스트라 백준 1446 지름길 & 다익스트라 백준 14284 간선 이어가기 2 & 백준 2665 미로만들기 <br>
+week 3 : DFS 문제 20057 마법사 상어와 토네이도 & BFS 문제 2178 미로 탐색 & 다익스트라 백준 4485 녹색 옷 입은 애가 젤다지?    <br>
+
+
+
+
 ### 패키지 구조
 ```
 ALGO
@@ -175,9 +183,9 @@ ALGO
 
 | 난이도 | 번호  | 제목                           | 링크                                               |   |   |
 |--------|------|------------------------------|--------------------------------------------------|---|---|
-| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) | 🐬  |   |
+| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) | 🐬  | 🤬  |
 | 1      | 5972 | 택배 배송                     | [https://www.acmicpc.net/problem/5972](https://www.acmicpc.net/problem/5972) |   |   |
-| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) | 🐬  |   |
+| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) | 🐬  | 🤬  |
 | 1      | 1719 | 택배                          | [https://www.acmicpc.net/problem/1719](https://www.acmicpc.net/problem/1719) |   |   |
 | 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) | 🐬  |   |
 | 1      | 4485 | 녹색 옷 입은 애가 젤다지?     | [https://www.acmicpc.net/problem/4485](https://www.acmicpc.net/problem/4485) |   |   |
