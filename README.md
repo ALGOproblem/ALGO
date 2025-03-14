@@ -164,9 +164,9 @@ ALGO
 |--------|------|----------------------|------------------------------------------------|---|---|
 | 1 | 2178 | 미로 탐색 | [https://www.acmicpc.net/problem/2178](https://www.acmicpc.net/problem/2178) | | |
 | 1 | 1012 | 유기농 배추 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) | | |
-| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | | |
-| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) | | |
-| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) | | |
+| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) |🐬 | |
+| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |🐬 | |
+| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) |🐬 | |
 | 2 | 7576 | 토마토 | [https://www.acmicpc.net/problem/7576](https://www.acmicpc.net/problem/7576) | | |
 | 2 | 7569 | 토마토(3차원) | [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569) | | |
 | 2 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
@@ -183,11 +183,11 @@ ALGO
 
 | 난이도 | 번호  | 제목                           | 링크                                               |   |   |
 |--------|------|------------------------------|--------------------------------------------------|---|---|
-| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) |   | 🤬  |
+| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) | 🐬  | 🤬  |
 | 1      | 5972 | 택배 배송                     | [https://www.acmicpc.net/problem/5972](https://www.acmicpc.net/problem/5972) |   |   |
-| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) |   | 🤬  |
+| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) | 🐬  | 🤬  |
 | 1      | 1719 | 택배                          | [https://www.acmicpc.net/problem/1719](https://www.acmicpc.net/problem/1719) |   |   |
-| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) |   | 🤬  |
+| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) | 🐬  | 🤬 |
 | 1      | 4485 | 녹색 옷 입은 애가 젤다지?     | [https://www.acmicpc.net/problem/4485](https://www.acmicpc.net/problem/4485) |   |   |
 | 1      | 13424| 비밀 모임                     | [https://www.acmicpc.net/problem/13424](https://www.acmicpc.net/problem/13424) |   | 💛  |
 | 1      | 14938| 서강그라운드                  | [https://www.acmicpc.net/problem/14938](https://www.acmicpc.net/problem/14938) |   |   |
