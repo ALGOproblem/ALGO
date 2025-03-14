@@ -1,4 +1,4 @@
-package 실습.MIRIM.실습Day01_부분집합;
+package 실습.김미림.실습Day01_부분집합;
 
 import java.util.Scanner;
 
