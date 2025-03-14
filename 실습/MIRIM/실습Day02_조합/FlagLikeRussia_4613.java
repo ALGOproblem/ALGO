@@ -1,4 +1,4 @@
-package 실습.김미림.실습Day02_조합;
+package 실습.MIRIM.실습Day02_조합;
 
 import java.util.ArrayList;
 import java.util.List;
