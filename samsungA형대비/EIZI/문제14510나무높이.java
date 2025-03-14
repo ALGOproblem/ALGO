@@ -1,4 +1,4 @@
-package ALGO.samsungA형대비.EIZI;
+package samsungA형대비.EIZI;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -108,4 +108,3 @@ public class 문제14510나무높이 {
     }
 }
 
-}

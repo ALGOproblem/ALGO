@@ -1,3 +1,5 @@
+package 실습.김미림.실습Day04_백트래킹;
+
 import java.util.Scanner;
 
 public class CardGameByKyuYoung_6808 {

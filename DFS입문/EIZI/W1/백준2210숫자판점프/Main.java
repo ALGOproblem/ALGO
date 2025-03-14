@@ -1,3 +1,5 @@
+package DFS입문.EIZI.W1.백준2210숫자판점프;
+
 import java.io.*;
 import java.util.*;
 

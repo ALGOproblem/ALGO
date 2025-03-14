@@ -1,3 +1,5 @@
+package samsungA형대비.MIRIM.dijkstra;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -5,7 +7,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Main {
+public class 백준14284_간선이어가기2 {
 
 	static int n, m, s, t;
 	static List<List<int[]>> graph = new ArrayList<>();

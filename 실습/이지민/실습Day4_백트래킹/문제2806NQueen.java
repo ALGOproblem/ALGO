@@ -1,4 +1,4 @@
-package 실습Day4_백트래킹;
+package 실습.이지민.실습Day4_백트래킹;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

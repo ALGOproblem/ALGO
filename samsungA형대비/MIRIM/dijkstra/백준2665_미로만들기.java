@@ -1,9 +1,11 @@
+package samsungA형대비.MIRIM.dijkstra;
+
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class Main {
+public class 백준2665_미로만들기 {
 	// 바꿔야할 방의 개수 = 가중치 = 최솟값
 	static int n;
 	static int[][] map;

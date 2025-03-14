@@ -1,3 +1,5 @@
+package samsungA형대비.MIRIM.dijkstra;
+
 import java.util.*;
 
 public class 백준1446_지름길 {
