@@ -1,11 +1,11 @@
-package DFS입문.MIRIM.w1.limitWeights_1939;
+package 공통주차별문제.Week01.MIRIM;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class LimitWeights_1939 {
+public class 백준1939_중량제한 {
     static int N, M, v1, v2;
     static ArrayList<ArrayList<Bridge>> graph = new ArrayList<>();
 
