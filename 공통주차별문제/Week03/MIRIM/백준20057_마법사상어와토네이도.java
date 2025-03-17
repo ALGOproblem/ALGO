@@ -74,7 +74,7 @@ public class 백준20057_마법사상어와토네이도 {
 
     static int proportional(int r, int c, int idx, int sand) {
         int[][] arr = new int[][] {
-                {1, 0, 1},
+                {1, 0, 1}, // 비율, 이동방향에서 거리, 이동방향의 수직방향에서 거리
                 {2, 1, 2},
                 {7, 1, 1},
                 {10, 2, 1},
