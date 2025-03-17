@@ -1,3 +1,5 @@
+package 실습.이지민.실습Day01_부분집합;
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.IOException;

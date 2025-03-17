@@ -1,4 +1,4 @@
-package 실습Day02_조합;
+package 실습.이지민.실습Day02_조합;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

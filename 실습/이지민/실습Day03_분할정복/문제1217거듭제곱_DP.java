@@ -1,4 +1,4 @@
-package 실습Day03_분할정복;
+package 실습.이지민.실습Day03_분할정복;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

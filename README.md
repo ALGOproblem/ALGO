@@ -2,6 +2,19 @@
 
 ## 스터디 진행 방식
 
+### 공통 문제
+#### week 1 : DFS 문제 | 홀수만 풀기 
+<br>
+
+#### week 2 : SWEA 나무 물주기 & 다익스트라 백준 1446 지름길 & 다익스트라 백준 14284 간선 이어가기 2 & 백준 2665 미로만들기 
+<br>
+
+#### week 3 : DFS 문제 20057 마법사 상어와 토네이도 & BFS 문제 2178 미로 탐색 & 다익스트라 백준 4485 녹색 옷 입은 애가 젤다지?    
+<br>
+
+
+
+
 ### 패키지 구조
 ```
 ALGO
@@ -156,9 +169,9 @@ ALGO
 |--------|------|----------------------|------------------------------------------------|---|---|
 | 1 | 2178 | 미로 탐색 | [https://www.acmicpc.net/problem/2178](https://www.acmicpc.net/problem/2178) | | |
 | 1 | 1012 | 유기농 배추 | [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012) | | |
-| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) | | |
-| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) | | |
-| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) | | |
+| 1 | 1260 | DFS와 BFS | [https://www.acmicpc.net/problem/1260](https://www.acmicpc.net/problem/1260) |🐬 | |
+| 1 | 1926 | 그림 | [https://www.acmicpc.net/problem/1926](https://www.acmicpc.net/problem/1926) |🐬 | |
+| 1 | 2606 | 바이러스 | [https://www.acmicpc.net/problem/2606](https://www.acmicpc.net/problem/2606) |🐬 | |
 | 2 | 7576 | 토마토 | [https://www.acmicpc.net/problem/7576](https://www.acmicpc.net/problem/7576) | | |
 | 2 | 7569 | 토마토(3차원) | [https://www.acmicpc.net/problem/7569](https://www.acmicpc.net/problem/7569) | | |
 | 2 | 2206 | 벽 부수고 이동하기 | [https://www.acmicpc.net/problem/2206](https://www.acmicpc.net/problem/2206) | | |
@@ -175,13 +188,13 @@ ALGO
 
 | 난이도 | 번호  | 제목                           | 링크                                               |   |   |
 |--------|------|------------------------------|--------------------------------------------------|---|---|
-| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) |   |   |
+| 1      | 1446 | 지름길                        | [https://www.acmicpc.net/problem/1446](https://www.acmicpc.net/problem/1446) | 🐬  | 🤬  |
 | 1      | 5972 | 택배 배송                     | [https://www.acmicpc.net/problem/5972](https://www.acmicpc.net/problem/5972) |   |   |
-| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) |   |   |
+| 1      | 14284| 간선 이어가기 2               | [https://www.acmicpc.net/problem/14284](https://www.acmicpc.net/problem/14284) | 🐬  | 🤬  |
 | 1      | 1719 | 택배                          | [https://www.acmicpc.net/problem/1719](https://www.acmicpc.net/problem/1719) |   |   |
-| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) |   |   |
+| 1      | 2665 | 미로만들기                    | [https://www.acmicpc.net/problem/2665](https://www.acmicpc.net/problem/2665) | 🐬  | 🤬 |
 | 1      | 4485 | 녹색 옷 입은 애가 젤다지?     | [https://www.acmicpc.net/problem/4485](https://www.acmicpc.net/problem/4485) |   |   |
-| 1      | 13424| 비밀 모임                     | [https://www.acmicpc.net/problem/13424](https://www.acmicpc.net/problem/13424) |   |   |
+| 1      | 13424| 비밀 모임                     | [https://www.acmicpc.net/problem/13424](https://www.acmicpc.net/problem/13424) |   | 💛  |
 | 1      | 14938| 서강그라운드                  | [https://www.acmicpc.net/problem/14938](https://www.acmicpc.net/problem/14938) |   |   |
 | 1      | 18223| 민준이와 마산 그리고 건우     | [https://www.acmicpc.net/problem/18223](https://www.acmicpc.net/problem/18223) |   |   |
 | 1      | 1238 | 파티                          | [https://www.acmicpc.net/problem/1238](https://www.acmicpc.net/problem/1238) |   |   |

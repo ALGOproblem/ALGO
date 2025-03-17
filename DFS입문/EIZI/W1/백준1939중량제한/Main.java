@@ -1,4 +1,4 @@
-package 백준1939중량제한;
+package DFS입문.EIZI.W1.백준1939중량제한;
 
 import java.io.*;
 import java.util.*;

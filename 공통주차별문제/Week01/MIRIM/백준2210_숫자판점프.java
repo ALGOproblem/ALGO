@@ -1,10 +1,10 @@
-package DFS입문.MIRIM.w1.jumpTheNumberPad_2210;
+package 공통주차별문제.Week01.MIRIM;
 
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class JumpTheNumberPad_2210 {
+public class 백준2210_숫자판점프 {
     static int[][] map;
     static int[] dr = {-1, 1, 0, 0};
     static int[] dc = {0, 0, -1, 1};

@@ -1,4 +1,4 @@
-package week1;
+package samsungA형대비.EIZI;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

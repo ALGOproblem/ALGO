@@ -1,4 +1,4 @@
-package week2;
+package samsungA형대비.EIZI;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -50,7 +50,7 @@ import java.util.StringTokenizer;
  */
 
 
-public class 백준1446지름길2 {
+public class 백준1446지름길 {
 	static int N;
 	static int D;
 	static final int INF = Integer.MAX_VALUE; // 무한대의 값
