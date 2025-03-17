@@ -30,6 +30,7 @@ public class 백준4485_녹색옷을입은애가젤다지 {
         }// 테스트 케이스
     }// main
 
+    // 다익스트라 사용
     static int dijkstra(int startR, int startC) {
         int[][] dis = new int[N][N];
         for (int i = 0; i < N; i++) {
