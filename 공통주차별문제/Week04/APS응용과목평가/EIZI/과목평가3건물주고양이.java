@@ -23,7 +23,6 @@ public class 과목평가3건물주고양이 {
     static ArrayList<Character>[] cats;
     static boolean[] visitedCat;
     static int answer;
-
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine()); // 테스트 케이스 개수
