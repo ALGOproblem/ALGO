@@ -64,7 +64,7 @@ public class 문제2_룩과나이트 {
 			int moveCount = cur[4]; // 이동 횟수
 
 			if (moveCount == K) {
-				if (rRook != rKnight || cRook != cKnight) {
+				if (rRook != rKnight || cRook != cKnight) { // 해당 조건으로 룩이 나이트를 건너가는 문제, 잘못된 경우 입력 등 제거가 가능해짐!
 					result.add(rRook + "," + cRook + "," + rKnight + "," + cKnight);
 				}
 				continue;
