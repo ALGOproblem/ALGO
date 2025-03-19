@@ -27,6 +27,7 @@ public class 백준2183_미로탐색 {
 
     }
 
+    // 다익스트라 사용
     static int dijkstra(int r, int c) {
         int[][] dis = new int[N][M];
         for (int i = 0; i < N; i++) {
