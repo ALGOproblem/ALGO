@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 백준17136_색종이_붙이기 {
 
 
       static int usepapernum=0;
