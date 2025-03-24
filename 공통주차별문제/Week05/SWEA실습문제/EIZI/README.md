@@ -16,12 +16,6 @@ depth 1 -> 친구들
 depth 2 -> 친구의 친구
 depth > 2 -> 탐색 종료
 ```
-
-### 내가 놓친 포인트
-- `friends.contains(prev)`로 depth 관리하려 했지만 depth 관리 안 됨
-- BFS에서 depth가 핵심인데 체크를 제대로 못함
-- ✅ **Queue에 depth 정보를 같이 넣어 정확히 2단계까지만 탐색해야 한다**
-
 ---
 
 ## swea15849 - 이어진 쌍 (BFS로 연결 요소 판별)
