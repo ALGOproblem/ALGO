@@ -1,3 +1,5 @@
+package 공통주차별문제.Week04.공통문제.MIRIM;
+
 import java.util.*;
 
 public class 백준16496_벽부수고이동하기4 {
