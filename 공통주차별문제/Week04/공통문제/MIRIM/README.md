@@ -57,8 +57,29 @@ static void binaryTeam(int start, int end, int day) {
 ### (1) 문제 접근 방식
 #### 전체 :  dfs + 가지치기
 - 큰 색종이부터 붙이는 시도 -> 붙이기 가능 -> 붙이고 다음으로 / 원상복귀(작은 종이로 이어짐)
-- dfs 과정 중 현재 종이수가 구해진 최소 종이수보다 크면 구하지 않는다. 
+    ``` java
+    for (int idx = 5; idx > 0; idx--) {
+        // 해당 종이를 붙일 수 있는지 검사 -> 붙이기, 더 작은 종이 붙이기
+        if (amount[idx] > 0 && isValid(r, c, idx)) {
+            // 1. 해당 종이 붙이기 -> 다른 영역으로 넘어가기
+            select(r, c, idx, 0);
+            amount[idx]--;
+            
+            dfs(r, c + 1, count + 1);
+            
+            // 2. 원상복귀, 작은 종이 붙이기
+            amount[idx]++;
+            select(r, c, idx, 1);
+        }
+    }
+    ```
 
+- dfs 과정 중 현재 종이수가 구해진 최소 종이수보다 크면 구하지 않는다.
+    ``` java
+    // 가지치기
+    		if (minCount <= count) return;
+    ```
+  
 #### 일부: 완전 탐색
 - 붙이기가 가능한지 판단할 때 해당 (r, c)에서 종이 영역만큼 조건들을 확인한다.
 - 조건
