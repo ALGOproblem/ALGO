@@ -54,8 +54,8 @@ static void binaryTeam(int start, int end, int day) {
 ---
 
 ## 2. [문제 17136 - 색종이 붙이기](https://www.acmicpc.net/problem/17136)
-### (1) 문제 접근 방식
-#### 전체 :  dfs + 가지치기
+### 문제 접근 방식
+#### (1) 전체 :  dfs + 가지치기
 - 큰 색종이부터 붙이는 시도 -> 붙이기 가능 -> 붙이고 다음으로 / 원상복귀(작은 종이로 이어짐)
     ``` java
     for (int idx = 5; idx > 0; idx--) {
@@ -77,23 +77,97 @@ static void binaryTeam(int start, int end, int day) {
 - dfs 과정 중 현재 종이수가 구해진 최소 종이수보다 크면 구하지 않는다.
     ``` java
     // 가지치기
-    		if (minCount <= count) return;
+    if (minCount <= count) return;
     ```
   
-#### 일부: 완전 탐색
+#### (2) 일부: 완전 탐색
 - 붙이기가 가능한지 판단할 때 해당 (r, c)에서 종이 영역만큼 조건들을 확인한다.
 - 조건
     - map의 값이 1이어야 함
     - map의 내부 값이어야 함
 
-#### 방문 확인
+#### (3) 방문 확인
 재귀 활용으로 map을 그대로 활용 가능하다. <br>
 마지막 (9, 10)에 도달 시 map 모든 영역에 방문 확인(`isAllCovered`)을 거쳐야 `minCount` 값을 갱신할 수 있다.
 
 ---
 
 ## 3. [문제 16946 - 벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946)
+### (1) 문제 접근 방식
+- 1차 : delta 방식으로 bfs 완전탐색  -> 메모리 초과
+- 탐색 수 자체를 줄일 수 있는 방법으로 **그룹화(grouping)** 를 이용
 
+### (2) 그룹화(Grouping)
+1. 애니팡처럼 벽 안에 연결된 1들을 하나의 그룹으로 묶기
+2. `group`에 각 그리드에 속하는 group 번호를 넣음
+3. `Map<Integer, Integer> groupInfo`에 그룹번호, 그룹 크기를 저장
+
+### (3) 풀이 방식
+#### 1. 그룹화
+``` java
+group = new int[N][M];
+for (int i = 0; i < N; i++) {
+	for (int j = 0; j < M; j++) {
+		if (map[i][j] == 0 && group[i][j] == 0)
+			groupBFS(i, j);
+	}
+} // 그룹화
+```
+
+#### 2. groupBFS
+``` java
+static void groupBFS(int r, int c) {
+	Queue<int[]> queue = new LinkedList<>();
+	queue.offer(new int[]{r, c}); // 행, 열
+	group[r][c] = groupIdx;
+	int size = 1;
+
+	while(!queue.isEmpty()) {
+		int[] cur = queue.poll();
+		int curR = cur[0];
+		int curC = cur[1];
+
+		for (int i = 0; i < 4; i++) {
+			int nr = curR + dr[i];
+			int nc = curC + dc[i];
+
+			if (nr < 0 || nc < 0 || nr >= N || nc >= M ) continue;
+
+			if (map[nr][nc] == 0 && group[nr][nc] == 0) {
+				queue.offer(new int[]{nr, nc});
+				group[nr][nc] = groupIdx;
+				size++;
+			}
+		}// delta
+	}// while
+
+	groupInfo.put(groupIdx++, size);
+}// bfs
+```
+
+#### 3. 근처 그룹 수 세기, 그룹크기 추가
+``` java
+result = new int[N][M];
+	for (int i = 0; i < N; i++) {
+		for (int j = 0; j < M; j++) {
+			if (map[i][j] == 1) {
+				Set<Integer> nearGroups = new HashSet<>();
+				int sum = 1;
+
+				for (int d = 0; d < 4; d++) {
+					int nr = i + dr[d];
+					int nc = j + dc[d];
+
+					if (nr < 0 || nc < 0 || nr >= N || nc >= M || map[nr][nc] == 1) continue;
+
+					int gid = group[nr][nc];
+					if (nearGroups.add(gid)) {
+						sum += groupInfo.get(gid);
+					}
+				}
+				result[i][j] = sum % 10;
+...
+```
 ---
 
 ## 4. [문제 9081 - 단어 맞추기](https://www.acmicpc.net/problem/9081)
