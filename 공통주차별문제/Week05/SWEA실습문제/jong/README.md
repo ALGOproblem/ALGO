@@ -82,3 +82,48 @@
   2. 햄스터 최대 수를 -1로 초기값을 설정해서 햄스터 최대수가 -1이면 조건에 맞는 수가 없으므로 -1출력 아니면 
   각 케이지별 수 출력(제가 쓴 방식)
 ---
+
+## 8. [문제 5521_상원이의생일파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWWO3kT6F2oDFAV4)
+- **설명:**  
+  친구관계 양방향으로 LIST 저장하고
+  상원이(1) 친구 SET에 저장
+  상원이 친구의 친구도 LIST에서 찾아서 SET에 저장
+  이러면 ANS.SIZE()가 답이 됨
+
+
+---
+
+## 9. [문제 14510_나무높이](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AYFofW8qpXYDFAR4)
+- **설명:**  
+
+그리디 문제
+혹시 의문점있다면 설명해드리겠습니다.
+설명하기 너무 힘들어요... 
+---
+
+## 10. [문제 1251_하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)
+- **설명:**  
+   모든 노드들이 연결되어있다고 생각하고
+   모든 간선을 노드에 저장
+   노드에는 FROM/TO/DIST저장
+   이중FOR문으로 모든 간선 저장 후에
+   오름차순 정렬
+
+   오름차순 순서대로 꺼내서 최종거리에 합한다
+   이때, 유니온 파인드를 이용해서 서로 연결되어 있는지 확인하고 
+   만약에 연결되어 있는 상태면 합하지 않는다.
+
+---
+
+## 10. [문제 3289_서로소집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
+- **설명:**  
+유니온 파인드 문제
+여기에 같이 결합했는지 확인하는 CHECK메서드 추가
+---
+
+## 11. [문제 7465_창용마을무리의개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU)
+- **설명:**  
+  유니온 파인드
+  그냥 위랑 똑같은 UNION이후 FIND(최종 부모로  숫자들 전부 변경)
+  SET으로 몇개의 수가 있는지 확인인
+---
