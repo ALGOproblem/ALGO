@@ -127,3 +127,22 @@
   그냥 위랑 똑같은 UNION이후 FIND(최종 부모로  숫자들 전부 변경)
   SET으로 몇개의 수가 있는지 확인인
 ---
+
+## 12. [문제 1249_보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+- **설명:**  
+  
+  다익스트라 문제
+
+---
+
+## 13. [문제 1238_Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD)
+- **설명:**  
+  
+  bfs문제?
+  대신에 bfs를 끝까지 수행해야하고 
+  now[2](depth)를 갱신하면서 가장 큰 수 찾기 (아래 부분분)
+     if (now[2] > dist[now[0]][now[1]]) continue; // 이미 더 짧은 경로로 방문된 경우 건너뜀
+    if (now[0] == N - 1 && now[1] == N - 1) continue; // 도착 지점 도달 시 continue
+
+
+---
