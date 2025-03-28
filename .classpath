@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="DFS입문/EIZI/solved/|공통주차별문제/Week04/공통문제/EIZI/|samsungA형대비/MIRIM/TreeHeight_14510/|공통주차별문제/Week04/공통문제/jong/" kind="src" path=""/>
+	<classpathentry kind="src" path="DFS입문/EIZI/solved"/>
+	<classpathentry kind="src" path="samsungA형대비/MIRIM/TreeHeight_14510"/>
+	<classpathentry kind="src" path="공통주차별문제/Week04/공통문제/EIZI"/>
+	<classpathentry kind="src" path="공통주차별문제/Week04/공통문제/jong"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
