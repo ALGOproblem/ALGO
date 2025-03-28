@@ -59,12 +59,12 @@ static void union(int x, int y) {
 
 ```java
 Set<Integer> set = new HashSet<>();
-			for (int i = 1; i <= N; i++) {
-				find(i);
-				if (!set.contains(parent[i])) {
-					set.add(parent[i]);
-				}
-			}
+for (int i = 1; i <= N; i++) {
+	find(i);
+	if (!set.contains(parent[i])) {
+		set.add(parent[i]);
+	}
+}
 ```
 
 ---
