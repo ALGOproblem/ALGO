@@ -1,4 +1,4 @@
-# SWEA APS 응용 DAY7
+# SWEA APS 응용 DAY8
 
 ## swea1251 sw문제 응용 하나로
 
