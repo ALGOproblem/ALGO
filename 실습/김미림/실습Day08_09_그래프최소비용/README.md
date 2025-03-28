@@ -40,9 +40,9 @@
 
 ```java
 static int find(int a) {
-		if (parent[a] == a) return a;
-		return parent[a] = find(parent[a]);
-	}
+    if (parent[a] == a) return a;
+    return parent[a] = find(parent[a]);
+}
 
 static void union(int x, int y) {
 	int px = find(x);
@@ -214,16 +214,16 @@ distance[0][0] = 0;
 
 ```java
 if (maxDepth < depth) {
-	maxDepth = depth;
-	max = node;
+    maxDepth = depth;
+    max = node;
 
 } else if (maxDepth == depth) {
 	max = Math.max(max, node);
 }// 큰 값, 깊이 갱신
 
 for (int next : graph[node]) {
-	if (visited[next]) continue;
+if (visited[next]) continue;
 
-	queue.offer(new int[] {next, depth + 1});
-	}// next
+queue.offer(new int[] {next, depth + 1});
+}// next
 ```
