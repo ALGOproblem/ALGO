@@ -1,4 +1,4 @@
-package D4;
+package 공통주차별문제.Week05.SWEA실습문제.TERRY;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
