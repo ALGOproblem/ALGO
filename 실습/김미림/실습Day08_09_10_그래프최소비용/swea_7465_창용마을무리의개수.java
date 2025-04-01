@@ -1,4 +1,4 @@
-package 실습.김미림.실습Day08_09_그래프최소비용;
+package 실습.김미림.실습Day08_09_10_그래프최소비용;
 
 import java.util.*;
 
