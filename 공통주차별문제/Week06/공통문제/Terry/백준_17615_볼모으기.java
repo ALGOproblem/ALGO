@@ -1,4 +1,4 @@
-package 공통주차별문제.Week06.SWEA실습문제.Terry;
+package 공통주차별문제.Week06.공통문제.Terry;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
