@@ -23,6 +23,8 @@
 5. 오른쪽 끝부터 존재하는 파란 공의 개수 세기
 6. 2 ~ 5에서 최대가 되는 값 찾기
 
+---
+
 ## 문제 2 : 백준 [15486-퇴사 2](https://www.acmicpc.net/problem/15486)
 
 ### 문제 접근
@@ -60,6 +62,8 @@ for (int i = 1; i <= N; i++) {
 dp[N + 1] = Math.max(dp[N], dp[N + 1]); // 최종 정산
 ```
 
+---
+
 ## 문제 3 : [백준 1463번 : 1로 만들기](https://www.acmicpc.net/problem/1463)
 
 ### 문제 접근
@@ -92,6 +96,8 @@ if (cur % 3 == 0 && curDis + 1 < distance[cur / 3]) {
     queue.offer(new int[] {cur / 3, curDis + 1});
 }
 ```
+
+---
 
 ## 문제 4 : [백준 1916 최소비용 구하기](https://www.acmicpc.net/problem/1916)
 
