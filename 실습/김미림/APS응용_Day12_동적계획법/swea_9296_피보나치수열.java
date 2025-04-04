@@ -1,3 +1,5 @@
+package 실습.김미림.APS응용_Day12_동적계획법;
+
 import java.util.Scanner;
 
 public class swea_9296_피보나치수열 {
