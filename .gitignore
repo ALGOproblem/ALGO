@@ -1,5 +1,22 @@
-.idea
+# ✅ IDE 설정 관련 파일
+.idea/
 *.iml
-out
+
+# ✅ 빌드 결과물 (Eclipse, STS 기준)
+bin/
+out/
+build/
+
+# ✅ 프로젝트 메타 설정 파일
 .classpath
 .project
+.settings/
+
+# ✅ 운영체제별 임시 파일
+.DS_Store
+Thumbs.db
+
+# ✅ 로그 & 캐시
+*.log
+*.tmp
+*.cache
