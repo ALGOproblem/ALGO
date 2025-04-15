@@ -5,7 +5,7 @@
 그리디로 풀다가 바로 혼남
 
 ```java
-public class Main {
+public class Boj1520내리막길 {
 static BufferedReader input;
 static StringTokenizer st;
 
