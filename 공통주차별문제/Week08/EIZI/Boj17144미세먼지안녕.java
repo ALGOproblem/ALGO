@@ -59,6 +59,10 @@ public class Main {
         System.out.println(answer);
     }
 
+    /// 1. tmp = arr.deepcopy()하는 방법
+    /// 2. tmp = new int[][] 한 다음 그냥 새로운 배열로서 더해주는 방법 두 가지가 있다
+
+    
     // 1) 미세먼지 확산
     static void diffuse() {
         int[][] tmp = new int[R][C];
@@ -137,3 +141,5 @@ public class Main {
         arr[x][1] = 0;
     }
 }
+
+
