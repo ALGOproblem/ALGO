@@ -1,3 +1,7 @@
+// 틀린 이유
+// 2. 공기청정기에서 나오는 곳은 0인데 그 부분을 놓쳤다
+// 3. push-shift 방식이 더 간단하다 -> 이런 거랑 비슷한 걸 생각하기는 했는데 구체적으로는 달팽이처럼 풀려고 하다가 꼬였다.
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
