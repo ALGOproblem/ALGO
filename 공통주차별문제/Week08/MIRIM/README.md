@@ -73,3 +73,56 @@ dp[r][c][dir] += dfs(nr, nc, d); // 경로 누적
 > 이상 까먹을 때쯤 매번 long형한테 당하는 리뷰였음...
 
 ---
+
+## [백준 17144번 미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+
+### 접근
+- 문제 이해 -> 구현 문제 
+- 미세먼지 확산이 **동시에** 일어난다를 이해하는게 중요했음
+- map에서 순차대로 확산을 일으켜 누적된 결과로 다시 확산 실행이 아님
+- 그렇기에 새로운 int[][] result를 만들어 값을 **누적**시키는 형태로 구현함
+
+### 주의할 점
+- 나름 백트래킹 한다고 확산할 양 `diffusion`이 없으면 넘어간다로 초기 코딩
+- 그러나 이때 먼지의 양은 0이 아니기에 새로운 map인 `result`에 **값이 전달되지 않은 문제**가 발생!
+
+#### 초기 문제
+
+```java
+if (map[r][c] <= 0) continue;
+				
+int count = 0; // 확산 횟수
+int diffusion = map[r][c] / 5; // 확산되는 양
+
+if (diffusion == 0) continue; // 이놈이 문제였음
+```
+
+#### 수정 후
+```java
+if (map[r][c] <= 0) continue;
+				
+int count = 0; // 확산 횟수
+int diffusion = map[r][c] / 5; // 확산되는 양
+```
+
+### 풀이
+- 문제에 주어진대로 확산(`diffuse`) -> 이동(`circulate`) 형태로 구현
+- 이동 구현 시 delta를 사용하지 않고 4 방향에 대해 이동시킴 
+- 이때 공기청정기 옆인 `map[upper][1] = 0`을 잊지 않게 주의해야 함.
+
+```java
+// 반시계 순환
+for (int i = upper - 1; i > 0; i--)
+    map[i][0] = map[i - 1][0];
+
+for (int j = 0; j < C - 1; j++)
+    map[0][j] = map[0][j + 1];
+
+for (int i = 0; i < upper; i++) 
+    map[i][C - 1] = map[i + 1][C - 1];
+    
+for (int j = C - 1; j > 1; j--)
+    map[upper][j] = map[upper][j - 1];
+
+map[upper][1] = 0;
+```
