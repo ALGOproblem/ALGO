@@ -1,4 +1,4 @@
-package ALGO.공통주차별문제.Week05.공통문제;
+package 공통주차별문제.Week05.공통문제.EIZI;
 import java.io.*;
 import java.util.*;
 
