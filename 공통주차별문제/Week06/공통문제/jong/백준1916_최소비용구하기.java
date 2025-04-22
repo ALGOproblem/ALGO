@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Main {
+public class 백준1916_최소비용구하기 {
 	static int N;
      static List<List<int[]>> list;
      static int ans=0;

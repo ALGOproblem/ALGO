@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class SWEA3282_0/1knapsack {
+public class SWEA3282_0_1knapsack {
 	static int[] V;
 	static int[] C;
 	static Integer[][] dp;

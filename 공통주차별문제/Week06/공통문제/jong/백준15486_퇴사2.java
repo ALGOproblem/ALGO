@@ -3,7 +3,7 @@ package 공통주차별문제.Week06.공통문제.jong;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class 백준15486_퇴사2 {
 	static int[] day;
 	static int[] cost;
 	static int[] dp;
