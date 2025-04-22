@@ -3,7 +3,7 @@ package 공통주차별문제.Week06.공통문제.jong;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class 백준1463_1로만들기 {
 	static Integer[] dp;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

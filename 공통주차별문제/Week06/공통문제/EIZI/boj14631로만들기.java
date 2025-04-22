@@ -1,3 +1,5 @@
+package 공통주차별문제.Week06.공통문제.EIZI;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
