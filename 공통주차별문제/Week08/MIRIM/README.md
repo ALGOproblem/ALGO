@@ -48,7 +48,7 @@ for (long[][] arr1 : dp) {
 (0, 1)에서 출발한다고 생각   
 방향은 가로방향으로 0으로 설정
 
-```java
+``` java
 System.out.println(dfs(0, 1, 0));
 ```
 
@@ -56,7 +56,7 @@ System.out.println(dfs(0, 1, 0));
 
 해당 방식이 Top-down 방식 + dfs 방식의 핵심
 
-```java
+``` java
 // 방문 체크
 if (dp[r][c][dir] != -1) return dp[r][c][dir];
 
@@ -64,7 +64,7 @@ if (dp[r][c][dir] != -1) return dp[r][c][dir];
 dp[r][c][dir] = 0;
 ```
 
-```java
+``` java
 dp[r][c][dir] += dfs(nr, nc, d); // 경로 누적
 ```
    
@@ -88,7 +88,7 @@ dp[r][c][dir] += dfs(nr, nc, d); // 경로 누적
 
 #### 초기 문제
 
-```java
+``` java
 if (map[r][c] <= 0) continue;
 				
 int count = 0; // 확산 횟수
@@ -98,7 +98,7 @@ if (diffusion == 0) continue; // 이놈이 문제였음
 ```
 
 #### 수정 후
-```java
+``` java
 if (map[r][c] <= 0) continue;
 				
 int count = 0; // 확산 횟수
@@ -110,7 +110,7 @@ int diffusion = map[r][c] / 5; // 확산되는 양
 - 이동 구현 시 delta를 사용하지 않고 4 방향에 대해 이동시킴 
 - 이때 공기청정기 옆인 `map[upper][1] = 0`을 잊지 않게 주의해야 함.
 
-```java
+``` java
 // 반시계 순환
 for (int i = upper - 1; i > 0; i--)
     map[i][0] = map[i - 1][0];
